@@ -10,23 +10,22 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "",
+	"weekBackground": "",
+	"difficulties": "Normal",
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"storyName": "Your New Week",
-	"weekName": "Custom Week",
+	"storyName": "",
 	"freeplayColor": [
-		146,
-		113,
-		253
+		58,
+		0,
+		0
 	],
 	"hideStoryMode": true,
-	"weekBefore": "tutorial",
+	"weekBefore": "",
+	"weekName": "Harem Camp",
 	"startUnlocked": true
 }
