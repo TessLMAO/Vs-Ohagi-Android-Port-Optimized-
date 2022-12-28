@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ohagi.png">
+<SubTexture name="ohagi_down0000" x="613" y="1982" width="659" height="949" frameX="-2" frameY="-13" frameWidth="666" frameHeight="965" />
+<SubTexture name="ohagi_down0001" x="1272" y="1982" width="646" height="929" frameX="-13" frameY="-34" frameWidth="666" frameHeight="965" />
+<SubTexture name="ohagi_idle0000" x="2433" y="0" width="615" height="980" frameX="-2" frameY="-14" frameWidth="630" frameHeight="995" />
+<SubTexture name="ohagi_idle0001" x="660" y="999" width="616" height="981" frameX="-1" frameY="-13" frameWidth="630" frameHeight="995" />
+<SubTexture name="ohagi_idle0002" x="0" y="1982" width="613" height="972" frameX="-10" frameY="-21" frameWidth="630" frameHeight="995" />
+<SubTexture name="ohagi_idle0003" x="2433" y="980" width="611" height="976" frameX="-14" frameY="-17" frameWidth="630" frameHeight="995" />
+<SubTexture name="ohagi_left0000" x="0" y="999" width="660" height="983" frameX="-12" frameY="-11" frameWidth="675" frameHeight="995" />
+<SubTexture name="ohagi_left0001" x="1276" y="999" width="647" height="981" frameX="-25" frameY="-11" frameWidth="675" frameHeight="995" />
+<SubTexture name="ohagi_right0000" x="1176" y="0" width="621" height="988" frameX="-10" frameY="-10" frameWidth="650" frameHeight="1000" />
+<SubTexture name="ohagi_right0001" x="1797" y="0" width="636" height="987" frameX="-10" frameY="-10" frameWidth="650" frameHeight="1000" />
+<SubTexture name="ohagi_up0000" x="0" y="0" width="587" height="999" frameX="-2" frameY="-5" frameWidth="590" frameHeight="1006" />
+<SubTexture name="ohagi_up0001" x="587" y="0" width="589" height="999" frameX="0" frameY="-6" frameWidth="590" frameHeight="1006" />
+</TextureAtlas>
